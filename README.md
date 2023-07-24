@@ -60,7 +60,7 @@ make goconvey
 $ curl -H "Content-Type: application/json" -d '{"text":"ths is a really really really important thing this is"}' http://localhost:8888/api
 ```
 
-## Setup example
+## Setup example karthik
 Use this setup
 
 aws_access_key_id = AKIAIOSFODNN7EXAMPLE
